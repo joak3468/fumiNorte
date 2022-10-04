@@ -43,7 +43,7 @@
                 <div class="social-links">
                     <a target="_blank" href="https://www.facebook.com/Fumigaciones-Norte-1815119762033122/" class="facebook"><i class="fa fa-facebook"></i></a>
                     <a target="_blank" href="https://www.instagram.com/fumigaciones_norte/" class="instagram"><i class="fa fa-instagram"></i></a>
-                    <a target="_blank" href="https://www.instagram.com/fumigaciones_norte/"><i class="fa fa-whatsapp"></i></a>
+                    <a target="_blank" href="https://wa.link/r1ff5h"><i class="fa fa-whatsapp"></i></a>
 
                 </div>
             </div>
@@ -54,6 +54,6 @@
 <!--create by joaquinmartinez.arg@gmail.com-->
 <div class="container">
     <div class="copyright">
-        &copy; Copyright <strong>FumigacionesNorte</strong> <img src="{{asset('../resources/img/logo.png')}}" alt="Alternate Text" style="width:70px" />
+        &copy; Copyright <strong>FumigacionesNorte</strong> <img src="{{asset('asset/img/logo.png')}}" alt="Alternate Text" style="width:70px" />
     </div>
 </div>

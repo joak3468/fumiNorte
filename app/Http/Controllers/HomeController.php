@@ -7,11 +7,11 @@ use Illuminate\Support\Facades\Mail;
 
 class HomeController extends Controller
 {
-    public function index(){ return view( 'web.home' )->with( ['ruta' => "home"] ); }
+    public function index(){
+         return view( 'web.home' )->with( ['ruta' => "home"] ); 
+    }
 
     public function form(){ return view( 'web.form' )->with( [ 'ruta' => "form" ] ); }
-
-    public function test(){ return view('web.test'); }
 
     public function send_presupuesto( Request $request ){
         $request->validate([

@@ -14,7 +14,7 @@
 <!--si el presupuesto online es apretado, hide sino no, hacerlo con js Y DETECTAR QUE SEA MOVIL-->
 <div class="container" >
     <div class="logo float-left text-success"  style="position: static">
-        <h3 class="text-success"><img src="{{asset('../resources/img/cruz.png')}}" alt="Alternate Text" /><a href="{{route('home')}}"><span  style="font-family:'Franklin Gothic Medium'; color:#28a745">Fumigaciones Norte</span></a></h3>
+        <h3 class="text-success"><img src="{{asset('asset/img/cruz.png')}}" alt="Alternate Text" /><a href="{{route('home')}}"><span  style="font-family:'Franklin Gothic Medium'; color:#28a745">Fumigaciones Norte</span></a></h3>
     </div>
     <nav class="main-nav float-right d-none block d-lg-block">
         <ul>

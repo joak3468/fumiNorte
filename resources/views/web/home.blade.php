@@ -14,7 +14,7 @@
                 </div>
             </div>
             <div class="col-md-6 intro-img order-md-last order-first">
-                <img src="{{asset('../resources/img/logo.png')}}" alt="" class="img-fluid">
+                <img src="{{asset('asset/img/logo.png')}}" alt="" class="img-fluid">
             </div>
         </div>
     </div>
@@ -26,11 +26,11 @@
             <div class="row ">
                 <div class="col-lg-5 col-md-6">
                     <div class="about-img">
-                        <img src="{{asset('../resources/img/port.jpg')}}" />
+                        <img src="{{asset('asset/img/port.jpg')}}" />
                     </div>
                     <br />
                     <div class="about-img">
-                        <img src="{{asset('../resources/img/mercado-pago.jpg')}}" alt="Alternate Text" />
+                        <img src="{{asset('asset/img/mercado-pago.jpg')}}" alt="Alternate Text" />
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6">
@@ -80,14 +80,14 @@
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
                     <div class="box">
 
-                        <img src="{{asset('../resources/img/insec/cucaracha.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/cucaracha.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">CUCARACHAS</h4>
                         <p class="description">Sus cuerpos están llenos de pequeñas fisuras y pelos que son perfectos para transportar todo tipo de microorganismos</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/mosquito.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/mosquito.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">MOSQUITOS</h4>
                         <p class="description">Los virus causan la mayoría de las enfermedades que transmiten los mosquitos. La malaria está causada por un parásito</p>
                     </div>
@@ -95,14 +95,14 @@
 
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/rata.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/rata.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">ROEDORES</h4>
                         <p class="description">Los roedores son portadores de una amplia variedad de organismos que causan enfermedades, incluyendo muchas especies de bacterias, virus, protozoos y helmintos</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/pulga.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/pulga.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">PULGAS</h4>
                         <p class="description">Las pulgas son unos molestos parásitos para nuestras mascotas y son muy difíciles de erradicar del medio ambiente.</p>
                     </div>
@@ -110,7 +110,7 @@
 
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/araña.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/araña.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">ARAÑAS</h4>
                         <p class="description">Siendo cazadoras solitarias, tienden a considerar una presa cualquier cosa que se mueva y tenga el tamaño apropiado.</p>
                     </div>
@@ -118,7 +118,7 @@
 
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/alacran.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/alacran.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">ALACRANES</h4>
                         <p class="description">Las picaduras de alacranes son eventos potencialmente graves y letales</p>
                     </div>
@@ -126,7 +126,7 @@
 
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/avispa.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/avispa.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">AVISPAS</h4>
                         <p class="description">Con la picadura estos insectos inoculan veneno en la piel, sustancias de naturaleza variada</p>
                     </div>
@@ -134,7 +134,7 @@
 
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/paloma.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/paloma.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">PALOMAS</h4>
                         <p class="description">La presencia incontrolada de palomas y otras aves en entornos urbanos pueden ser una fuente de enfermedades generalmente producidas por la acumulación de excrementos</p>
                     </div>
@@ -143,7 +143,7 @@
 
                 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                     <div class="box">
-                        <img src="{{asset('../resources/img/insec/hormiga.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
+                        <img src="{{asset('asset/img/insec/hormiga.jpeg')}}" class="rounded-circle w-25 p-3" alt="">
                         <h4 class="title">HORMIGAS</h4>
                         <p class="description">El principal peligro sanitario de esta plaga se da en los gérmenes que transportan en sus patas y que transmiten a los alimentos sobre los que caminan</p>
                     </div>
@@ -170,7 +170,7 @@
                     <div class="pest-item text-center mt-30">
                         <div class="pest-icon">
 
-                            <img src="{{asset('../resources/img/899img.webp')}}" alt="pest thumb">
+                            <img src="{{asset('asset/img/899img.webp')}}" alt="pest thumb">
                         </div>
                         <h6 class="pest-title">FUMIGACIÓN</h6>
                     </div>
@@ -181,7 +181,7 @@
                     <!-- pest single start -->
                     <div class="pest-item text-center mt-30">
                         <div class="pest-icon">
-                            <img src="{{asset('../resources/img/insec/pulverizacion.webp')}}" alt="pest thumb">
+                            <img src="{{asset('asset/img/insec/pulverizacion.webp')}}" alt="pest thumb">
                         </div>
                         <h6 class="pest-title">PULVERIZACIÓN</h6>
                     </div>
@@ -192,7 +192,7 @@
                     <!-- pest single start -->
                     <div class="pest-item text-center mt-30">
                         <div class="pest-icon">
-                            <img src="{{asset('../resources/img/insec/cebado.webp')}}" alt="pest thumb">
+                            <img src="{{asset('asset/img/insec/cebado.webp')}}" alt="pest thumb">
                         </div>
                         <h6 class="pest-title">ESTACIONES <br> DE CEBADO</h6>
                     </div>
@@ -203,7 +203,7 @@
                     <!-- pest single start -->
                     <div class="pest-item text-center mt-30">
                         <div class="pest-icon">
-                            <img src="{{asset('../resources/img/insec/nebulizacion.webp')}}" alt="pest thumb">
+                            <img src="{{asset('asset/img/insec/nebulizacion.webp')}}" alt="pest thumb">
                         </div>
                         <h6 class="pest-title">NEBULIZACIONES</h6>
                     </div>
@@ -213,7 +213,7 @@
                     <!-- pest single start -->
                     <div class="pest-item text-center mt-30">
                         <div class="pest-icon">
-                            <img src="{{asset('../resources/img/insec/desratizacion.webp')}}" alt="pest thumb">
+                            <img src="{{asset('asset/img/insec/desratizacion.webp')}}" alt="pest thumb">
                         </div>
                         <h6 class="pest-title">DESRATIZACIONES</h6>
                     </div>
@@ -223,7 +223,7 @@
                     <!-- pest single start -->
                     <div class="pest-item text-center mt-30">
                         <div class="pest-icon">
-                            <img src="{{asset('../resources/img/insec/desinsectacion.webp')}}" alt="pest thumb">
+                            <img src="{{asset('asset/img/insec/desinsectacion.webp')}}" alt="pest thumb">
                         </div>
                         <h6 class="pest-title">DESINSECTACIONES</h6>
                     </div>
@@ -244,27 +244,27 @@
                 
                 <div class="col-lg-3 col-md-6 wow fadeInUp">
                     <div class="member">
-                        <img src="{{asset('../resources/img/proveedores/uno.jpg')}}" class="img-fluid">
+                        <img src="{{asset('asset/img/proveedores/uno.jpg')}}" class="img-fluid">
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="member">
-                        <img src="{{asset('../resources/img/proveedores/dos.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/proveedores/dos.jpg')}}" class="img-fluid" alt="">
                         
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                     <div class="member">
-                        <img src="{{asset('../resources/img/proveedores/tres.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/proveedores/tres.jpg')}}" class="img-fluid" alt="">
                         
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="member">
-                        <img src="{{asset('../resources/img/proveedores/cuatro.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/proveedores/cuatro.jpg')}}" class="img-fluid" alt="">
                         
                     </div>
                 </div>
@@ -298,48 +298,48 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/uno.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/uno.jpeg')}}" class="img-fluid" alt="">
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/dos.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/dos.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/new2.jpeg')}}" class="img-fluid" alt="">
-
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/cuatro.jpeg')}}" class="img-fluid" alt="">
-
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/cinco.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/new2.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/seis.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/cuatro.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/new1.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/cinco.jpeg')}}" class="img-fluid" alt="">
+
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div class="portfolio-wrap">
+                        <img src="{{asset('asset/img/galery/seis.jpeg')}}" class="img-fluid" alt="">
+
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="portfolio-wrap">
+                        <img src="{{asset('asset/img/galery/new1.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
@@ -347,20 +347,20 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/nueve.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/nueve.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-active">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/ocho.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/ocho.jpeg')}}" class="img-fluid" alt="">
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-active">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/diez.jpeg')}}"    class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/diez.jpeg')}}"    class="img-fluid" alt="">
 
                     </div>
                 </div>
@@ -368,25 +368,25 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/once.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/once.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/veinte.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/veinte.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/new3.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/new3.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
-                        <img src="{{asset('../resources/img/galery/quince.jpeg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('asset/img/galery/quince.jpeg')}}" class="img-fluid" alt="">
 
                     </div>
                 </div>
