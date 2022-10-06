@@ -23,9 +23,9 @@ return "Cleared!";
 });
 
 Route::prefix('admin')->group( function() {
-    Route::get('/', function () {
-        return view('welcome');
-    });
+
+    Route::get( '/', 'AdminHomeController@index')->middleware(['auth', 'verified'])->name('home');
+
     
     Route::get('/dashboard', function () {
         return view('dashboard');
